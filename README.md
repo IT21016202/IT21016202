@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
-#### 🔴 Frameworks & Librries
+#### 🔴 Frameworks & Libraries
 <div>
   <img src="https://img.shields.io/badge/React_js-blue?logo=react&logoColor=white&style=for-the-badge" height="34px"/>
   <img src="https://img.shields.io/badge/Express_js-yellow?logo=express&logoColor=white&style=for-the-badge" height="34px"/>
@@ -84,7 +84,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-red?logo=intellijidea&logoColor=white&style=for-the-badge" height="34px"/>
   <img src="https://img.shields.io/badge/Eclipse-purple?logo=elipse&logoColor=white&style=for-the-badge" height="34px"/>
   <br>
-<!--   <img src="https://img.shields.io/badge/Dev_C-darkbluelogo=devcplusplus&logoColor=white&style=for-the-badge" height="34px"/> -->
   <img src="https://img.shields.io/badge/Android_Studio-darkgreen?logo=androidstudio&logoColor=white&style=for-the-badge" height="34px"/>
 </div>
 <br><br>
@@ -98,8 +97,5 @@ Here are some ideas to get you started:
 <br><br>
 
 
- 
-
-
-
-
+## :fire: My GitHub Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT21016202&theme=dracula&border_radius=10)](https://git.io/streak-stats)
