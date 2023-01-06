@@ -1,4 +1,4 @@
-### 🤍 Hi there 👋
+### 🤍 Hello World ! 👋
 - 😉 I'm Pasindu Shyamimda
 - :man_technologist: Software Engineering Student 
 - 🌱 I’m currently learning BSc (Hons) in Information Technology at SLIIT
@@ -101,3 +101,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT21016202&theme=dracula&border_radius=10)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21016202&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<hr>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"/>
+</div>
