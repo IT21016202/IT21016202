@@ -25,8 +25,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-Facebook-informational?logo=facebook&logoColor=white&style=for-the-badge" height="34px"/> </a>
     <a href="https://twitter.com/P_Shyaminda?t=SiiPE9yq9k0Sh0LZb1BKpA&s=09"> 
       <img src="https://img.shields.io/badge/-Twitter-informational?logo=twitter&logoColor=white&style=for-the-badge" height="34px" /> </a> 
-    <a href="pasindushyaminda.w@gmail.com"> 
-      <img src="https://img.shields.io/badge/info.pasindu.s@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" height="34px"/> </a>
+    <a href="mailto:pasindushyaminda.w@gmail.com"> 
+      <img src="https://img.shields.io/badge/pasindushyaminda.w@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" height="34px"/> </a>
   </div>
   <br>
   
