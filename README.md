@@ -73,6 +73,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node_js-green?logo=nodejs&logoColor=white&style=for-the-badge" height="34px"/>
   <br>
   <img src="https://img.shields.io/badge/Bootstrap-darkviolet?logo=bootstrap&logoColor=white&style=for-the-badge" height="34px"/>
+  
+   <img src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white&style=for-the-badge" height="34px"/>
+   <img src="https://img.shields.io/badge/Vue_JS-green?logo=vuetify&logoColor=white&style=for-the-badge" height="34px"/>
 </div>
 <br><br>
 
