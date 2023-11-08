@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 #### 🔴 Frameworks & Libraries
 <div>
   <img src="https://img.shields.io/badge/React_js-blue?logo=react&logoColor=white&style=for-the-badge" height="34px"/>
+  <img src="https://img.shields.io/badge/React_Native-blue?logo=react&logoColor=white&style=for-the-badge" height="34px"/>
   <img src="https://img.shields.io/badge/Express_js-yellow?logo=express&logoColor=white&style=for-the-badge" height="34px"/>
   <img src="https://img.shields.io/badge/Node_js-green?logo=nodejs&logoColor=white&style=for-the-badge" height="34px"/>
   <br>
